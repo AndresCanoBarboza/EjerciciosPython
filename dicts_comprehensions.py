@@ -1,3 +1,5 @@
+# Algunos retos cortos con Diccionarios con FOR y luego hacerlo con Comprehensions
+
 def run():
 
     dict_Challege = {}
