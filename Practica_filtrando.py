@@ -78,6 +78,8 @@ def run():
 
 # Filtrado de lenguaje Python
 # list_comprehension
+# Practica equenna para utilizar disitntas formas de flitrar algunos datos de la lista DATA
+
     print("\nDIFERENTES FILTRADOS:\n")
 
     all_python_devs = [worker["name"] for worker in DATA if worker["language"] == "python"]
