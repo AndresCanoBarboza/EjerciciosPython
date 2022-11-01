@@ -1,6 +1,7 @@
 # Ejemplo, encontrar el erro con Debugging y ejemplo de manejo de excepciones.
 
-def divisors(num):
+# Usos de Try - Except para el manejo de excepciones.
+def divisors(num): 
     divisors = []
     try:
         if num < 0:
